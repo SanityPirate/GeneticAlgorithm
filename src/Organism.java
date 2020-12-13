@@ -215,7 +215,7 @@ public class Organism implements Comparable<Organism> {
             } else {
                 Collections.sort(nextGeneration);
             }
-            System.out.println("===== GENERATION " + generationCounter + " =====");
+            System.out.println("===== GENERATION " + (generationCounter + 1) + " =====");
             for (Organism organism : nextGeneration) {
                 System.out.println(organism.getOrganismCode());
             }
