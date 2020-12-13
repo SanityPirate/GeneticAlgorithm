@@ -8,7 +8,7 @@ if it is the best possible solution to a single-variable function.
 The strongest organisms (determined by their fitness) are mated with other organisms that have good potential to create new and stronger organisms that have a better
 chance of solving the problem. 
 
-## Methodology
+## Process
 
 An organism starts with a randomly generated binary code of a default length 12. 
 Each organism has the ability to:
